@@ -43,7 +43,7 @@
     }
 
     if( $(window).innerWidth() > 1199 ){
-        fullscreenMenu();
+        fullscreenMenu(); 
     }
 
 
